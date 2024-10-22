@@ -1,0 +1,19 @@
+<%@page import="ch09.MUtil"%>
+<%@page import="ch09.TeamBean"%>
+<%@ page contentType="text/html; charset=UTF-8"%>
+<jsp:useBean id="mgr" class="ch09.TeamMgr"/>
+<%
+	int num = 0;
+	TeamBean bean= null;
+	if(request.getParameter("num")==null){
+		//num 값이 넘어오지않음
+		response.sendRedirect("teamList.jsp");
+		return;
+	} else if(!MUtil.isNumeric(request.getParameter("num"))){
+		//num 값이 숫자형태로 넘어오지 않은경우
+		response.sendRedirect("teamList.jsp");
+		return;
+	}
+	num = MUtil.paresInt(request, "num");
+	bean = mgr.getTeam(num);
+%>

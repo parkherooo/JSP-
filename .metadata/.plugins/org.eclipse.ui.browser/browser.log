@@ -1,0 +1,57 @@
+
+8월 30, 2024 14:21:43.33 NEW SESSION
+8월 30, 2024 14:21:43.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 02, 2024 10:53:13.34 NEW SESSION
+9월 02, 2024 10:53:13.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 02, 2024 11:21:37.65 [9912:12652:0902/112137.654:ERROR:device_event_log_impl.cc(196)] [11:21:37.653] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 02, 2024 11:21:37.66 [9912:12652:0902/112137.668:ERROR:device_event_log_impl.cc(196)] [11:21:37.666] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+9월 02, 2024 14:27:24.06 [9912:12652:0902/142724.067:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+9월 02, 2024 14:42:03.97 [9912:12652:0902/144203.971:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 02, 2024 14:42:03.97 [9912:12652:0902/144203.971:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 02, 2024 14:46:43.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 03, 2024 10:24:44.39 NEW SESSION
+9월 03, 2024 10:24:44.39 Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 03, 2024 10:36:32.34 [10812:10624:0903/103632.343:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+9월 10, 2024 09:27:23.45 NEW SESSION
+9월 10, 2024 09:27:23.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 10, 2024 11:05:51.35 [12316:9476:0910/110551.352:ERROR:device_event_log_impl.cc(196)] [11:05:51.349] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 10, 2024 11:05:51.36 [12316:9476:0910/110551.363:ERROR:device_event_log_impl.cc(196)] [11:05:51.362] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+9월 10, 2024 12:04:16.63 [12316:9476:0910/120416.634:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 10, 2024 12:04:16.77 [12316:9476:0910/120416.772:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:16.79 [12316:9476:0910/120416.797:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:17.04 [12316:9476:0910/120417.040:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:17.17 [12316:9476:0910/120417.178:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:17.33 [12316:9476:0910/120417.337:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:17.46 [12316:9476:0910/120417.465:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:17.61 [12316:9476:0910/120417.612:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:17.72 [12316:9476:0910/120417.724:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.15 [12316:9476:0910/120418.154:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.26 [12316:9476:0910/120418.266:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.38 [12316:9476:0910/120418.385:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.51 [12316:9476:0910/120418.515:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.68 [12316:9476:0910/120418.686:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.81 [12316:9476:0910/120418.816:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:18.94 [12316:9476:0910/120418.940:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.14 [12316:9476:0910/120419.148:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.30 [12316:9476:0910/120419.306:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.45 [12316:9476:0910/120419.457:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.55 [12316:9476:0910/120419.559:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.70 [12316:9476:0910/120419.706:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.88 [12316:9476:0910/120419.884:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:19.98 [12316:9476:0910/120419.980:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:04:20.04 [12316:9476:0910/120420.041:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.181 s for first_image_paint 0.166 s
+9월 10, 2024 12:36:53.76 [12316:9476:0910/123653.760:ERROR:device_event_log_impl.cc(196)] [12:36:53.760] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 10, 2024 12:36:53.77 [12316:9476:0910/123653.778:ERROR:device_event_log_impl.cc(196)] [12:36:53.777] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+9월 10, 2024 12:38:02.16 [12316:9476:0910/123802.165:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 10, 2024 12:38:02.16 [12316:9476:0910/123802.165:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 10, 2024 14:12:30.60 [12316:9476:0910/141230.601:ERROR:device_event_log_impl.cc(196)] [14:12:30.598] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 10, 2024 14:12:30.61 [12316:9476:0910/141230.614:ERROR:device_event_log_impl.cc(196)] [14:12:30.613] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+
+9월 12, 2024 08:52:33.45 NEW SESSION
+9월 12, 2024 08:52:33.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 19, 2024 14:17:11.58 NEW SESSION
+9월 19, 2024 14:17:11.59 Created TensorFlow Lite XNNPACK delegate for CPU.

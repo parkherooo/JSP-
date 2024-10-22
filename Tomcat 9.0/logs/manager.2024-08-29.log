@@ -1,0 +1,4 @@
+29-Aug-2024 10:07:40.135 INFO [http-nio-80-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+29-Aug-2024 10:07:40.135 INFO [http-nio-80-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+29-Aug-2024 10:07:40.144 INFO [http-nio-80-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Aug-2024 10:11:47.811 INFO [http-nio-80-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
